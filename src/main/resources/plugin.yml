@@ -1,0 +1,4 @@
+name: Chicken
+version: ${project.version}
+main: pw.theo.chicken.Main
+api-version: 1.13
